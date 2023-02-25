@@ -1,0 +1,26 @@
+Bienvenido a este curso de introducción a la
+Analítica de Datos, el primero de una serie de cursos diseñados para prepararte para una
+carrera como analista de datos junior. Citando un informe de consultoría Forrester sobre
+el poder de los datos para transformar los negocios: "Los negocios de hoy en día reconocen el valor sin explotar
+de los datos y de la analítica de datos como un factor crucial para la competitividad
+empresarial. Para impulsar sus iniciativas de datos y análisis, las
+empresas están contratando y capacitando a la gente. Están expandiendo sus equipos y creando centros de
+excelencia para establecer una práctica multifacética de datos y de análisis
+en sus organizaciones". Junto con esto, hay un desajuste significativo entre la
+oferta y la demanda de analistas de datos capacitados, lo que hace que sea una profesión
+muy buscada y bien pagada. Se puede optar por dominar el análisis de datos como
+una carrera profesional o aprovecharlo como un escalón para diversificarse en otras profesiones relacionadas con los datos,
+como la ciencia de los datos, la ingeniería de datos, el análisis de negocios y la Analítica de
+Inteligencia de Negocios. Este curso es para ti si eres un recién graduado
+de cualquier carrera, un profesional en activo que esté planteándose un cambio a mitad de su vida profesional, un responsable de la
+toma de decisiones basadas en datos o desempeñas cualquier función relacionada con el análisis. El curso presenta los conceptos, procesos y
+herramientas básicos que necesitas para entrar en el análisis de datos o incluso para reforzar tu papel
+actual como responsable de la toma de decisiones basadas en datos. Te dotará de un entendimiento del ecosistema
+de los datos y de los fundamentos del análisis de datos, como recopilación de datos,
+preparación, minería, análisis y visualización de datos. También podrás experimentar Un
+día en la vida de un analista de datos. Analistas de datos en activo comparten
+su experiencia de entrada en este campo. Opciones profesionales y vías de aprendizaje que
+puedes valorar y lo que los contratadores buscan en un analista de datos. También comparten sus conocimientos y buenas prácticas
+sobre algunos de los aspectos del proceso de análisis de datos. Lo que nos espera es realmente emocionante, tanto
+para este campo como para ti como analista de datos. Así que, ¡felicidades por haber
+elegido este viaje y buena suerte!
